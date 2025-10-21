@@ -35,10 +35,10 @@ Behind the scenes, when the victim interacts with the fake CAPTCHA, a hidden pay
 ### INSTALLATION
     * git clone https://github.com/0xbitx/DEDSEC_CLICKFIX.git
     * cd DEDSEC_CLICKFIX
-    * pip install requests tqdm tabulate
+    * sudo pip3 install requests tqdm tabulate
     * sudo apt intall zip
     * chmod +x dedsec-clickfix
-    * ./dedsec-clickfix
+    * sudo ./dedsec-clickfix
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
